@@ -1,5 +1,5 @@
 # Javascript-Puzzle
-
+```
 This the repo for making the simple Javascript puzzles.
 
 Consider every variables as a box.
@@ -26,5 +26,5 @@ Output -> 9 ,8 ,7
 >>> Puzzle 6 :
 10 --> In a loop
 
-
+```
 
