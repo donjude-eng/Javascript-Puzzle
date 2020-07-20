@@ -32,24 +32,25 @@ Started Head first Javascript Book.
 
 Chapter 1 ->
 
-## JavaScript is fairly unique in the programming world. With your typical
+##JavaScript is fairly unique in the programming world. With your typical
 programming language you have to write it, compile it, link it and deploy
 it.
 
-## The variable without equsl sign : We say optionally, because if you want, you can create a variable without
+##The variable without equsl sign : We say optionally, because if you want, you can create a variable without
 an initial value, and then assign it a value later. To create a variable
 without an initial value, just leave off the assignment part, like this:
 
-## A variable can hold are numbers string and the bollean values.
+##A variable can hold are numbers string and the bollean values.
 
-```
-What’s a keyword?
+**What’s a keyword?
 A: A keyword is a reserved word in
 JavaScript. JavaScript uses these reserved
 words for its own purposes, and it would
 be confusing to you and the browser if you
-started using them for your variables. 
-```
+started using them for your variables.**
+
+
+
 
 
 
