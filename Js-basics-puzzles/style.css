@@ -1,0 +1,56 @@
+/* .key li {
+    list-style-type: none;
+    display: inline;
+} */
+
+.charinfocus {
+    color: green;
+    font-size: 30px;
+}
+
+.charinfocusB {
+    color: red;
+    font-size: 30px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #e6e6e6;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    margin: 35px;
+}
+
+#input-text{
+    width: 600px;
+    height: 200px;
+    padding: 5px;
+    font-size: 50px;
+}
+
+.keyboard-horozintal-one{
+    display: flex;
+    justify-content: center;
+}
+
+.keyboard-horozintal-one > div{
+    margin: 10px 15px!important;
+    font-size: 31px;
+    background-color: cadetblue;
+}
+
+.words{
+    border: 1px solid black;
+    width: 40px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 10ch;
+}
