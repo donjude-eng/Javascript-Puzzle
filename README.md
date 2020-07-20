@@ -26,5 +26,9 @@ Output -> 9 ,8 ,7
 >>> Puzzle 6 :
 Output -> 10 --In a loop
 
+
+--------------------------------------------------------------------------
+Started Head first Javascript Book.
+
 ```
 
