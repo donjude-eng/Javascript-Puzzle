@@ -40,7 +40,6 @@ function reverseConcat(str1, str2) {
 //console.log(reverseConcat("Don", "Jude"));
 
 //Mix letters
-
 // function mixLetters(str1, str2) {
 //     let mixString = [];
 //     let mix1 = str1.split('');
@@ -68,16 +67,6 @@ function mixLetters(str1, str2) {
 
     }
     console.log(result.join(''));
-
-
 }
 
 mixLetters("Don", "Jude");
-
-
-
-
-
-
-
-
